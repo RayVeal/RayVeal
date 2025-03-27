@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayVeal
-- 👀 I’m interested in createing an enjoyable functioning product.
+- 👀 I’m interested in creating an enjoyable functioning product.
 - 🌱 I’m currently learning mobile app development and Rust.
 - 💞️ I’m looking to collaborate on my mobile app.
 - 📫 How to reach me ...
